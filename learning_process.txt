@@ -1,1 +1,5 @@
 Working Directory and Repository----Apr 1st 2019
+
+Reset---1.git check -- file--消除工作区修改
+	2.git reset HEAD file --暂存区回退至工作区
+	3.git reset --hard HEAD^--回退至上一版本
