@@ -5,3 +5,5 @@ Reset---1.git check -- file--消除工作区修改
 	3.git reset --hard HEAD^--回退至上一版本
 Origin--creat a origin reposity---SSH
 	git---
+
+branch--trying to check a branch named dev
